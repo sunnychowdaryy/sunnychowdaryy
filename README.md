@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunnychowdaryy
 - 👀 I’m interested in ...to learn python
-- 🌱 I’m currently learning ...btech 1st year
-- 💞️ I’m looking to collaborate on ...proraming
+- 🌱 I’m currently learning ...btech 3st year
+- 💞️ I’m looking to collaborate on ...programing
 - 📫 How to reach me ...
 
 \\
