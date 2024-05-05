@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunnychowdaryy
+- 👋 Hi, I’m @RECHARLA MANOJ
 - 👀 I’m interested in ...to learn python
-- 🌱 I’m currently learning ...btech 3st year
+- 🌱 I’m currently learning ...btech 4th year
 - 💞️ I’m looking to collaborate on ...programing
 - 📫 How to reach me ...
 
